@@ -20,7 +20,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![user story 1 activity diagram](img/activity-diagram-user-story-1.png)
 
 ## Clickable Prototype
 
