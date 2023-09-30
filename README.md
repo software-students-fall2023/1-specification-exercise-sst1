@@ -50,8 +50,11 @@ A university-focused, social, note-sharing mobile application where students can
 
 ## Activity Diagrams
 
+As a student, I want to login so that I can save my notes and information.
 ![user story 1 activity diagram](img/activity-diagram-user-story-1.png)
-![user story 4 activity diagram](img/uc4-activity.png)
+
+As a student, I want to upload pictures or PDFs of my notes so others can see them.
+![user story 4 activity diagram](img/activity-diagram-user-story-4.png)
 
 ## Clickable Prototype
 
