@@ -36,16 +36,16 @@ A university-focused, social, note-sharing mobile application where students can
 ## User Requirements
 
 <ol>
-<li>As a student, I want to **login** so that I can save my notes and information.</li>
-<li>As a student, I want to **logout** so that I can protect my privacy.</li>
-<li>As a student, I want to be able to **see other people's notes** so that I can see what other people's notes are.</li>
-<li>As a student, I want to **upload pictures or PDFs of my notes** so others can see them.</li>
-<li>As a student, I want to be able to **see the profile of other users and all their notes**, so that I can find more notes by the same user if I particularly like their notes.</li>
-<li>As a student, I want to be able to **delete my own notes** because I don’t want them up anymore.</li>
-<li>As an admin/moderator, I want to be able to **delete user notes** so that I can ensure the quality and validity of the notes uploaded.</li>
-<li>As a student, I want to be able to **search for notes based on fields** such as Professor, Course, or Subject, so that I can find notes relevant to me and the courses I am taking.</li>
-<li>As a professor, I want to **upload pictures or PDFs of my notes** so that official notes are available.</li>
-<li>As a student, I want to be able to **rate notes** so that other users can see the quality of other notes.</li>
+<li>As a student, I want to login so that I can save my notes and information.</li>
+<li>As a student, I want to logout so that I can protect my privacy.</li>
+<li>As a student, I want to be able to see other people's notes so that I can see what other people's notes are.</li>
+<li>As a student, I want to upload pictures or PDFs of my notes so others can see them.</li>
+<li>As a student, I want to be able to see the profile of other users and all their notes, so that I can find more notes by the same user if I particularly like their notes.</li>
+<li>As a student, I want to be able to delete my own notes because I don’t want them up anymore.</li>
+<li>As an admin/moderator, I want to be able to delete user notes so that I can ensure the quality and validity of the notes uploaded.</li>
+<li>As a student, I want to be able to search for notes based on fields such as Professor, Course, or Subject, so that I can find notes relevant to me and the courses I am taking.</li>
+<li>As a professor, I want to upload pictures or PDFs of my notes so that official notes are available.</li>
+<li>As a student, I want to be able to rate notes so that other users can see the quality of other notes.</li>
 </ol>
 
 ## Activity Diagrams
