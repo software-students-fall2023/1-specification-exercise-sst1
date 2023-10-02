@@ -56,5 +56,5 @@ As a student, I want to upload pictures or PDFs of my notes so others can see th
 
 ## Clickable Prototype
 
-### [Figma Prototype]([https://www.figma.com/file/JtsXw8Li4wKDdu4XyEDMHI/swe-feeed?type=design&node-id=201%3A24&mode=design&t=nlrjeX9oegRKeVv7-1](https://www.figma.com/proto/JtsXw8Li4wKDdu4XyEDMHI/swe-feeed?type=design&node-id=224-3&t=mTQFfH8vyHlOyKvP-0&scaling=scale-down&page-id=201%3A24&starting-point-node-id=224%3A3)https://www.figma.com/proto/JtsXw8Li4wKDdu4XyEDMHI/swe-feeed?type=design&node-id=224-3&t=mTQFfH8vyHlOyKvP-0&scaling=scale-down&page-id=201%3A24&starting-point-node-id=224%3A3)
+### [Figma Prototype](https://www.figma.com/file/JtsXw8Li4wKDdu4XyEDMHI/swe-feeed?type=design&node-id=224%3A3&mode=design&t=AoXfnmYH6zUETQj7-1)
 
